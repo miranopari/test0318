@@ -1,0 +1,6 @@
+i:insert
+
+esc
+:wq
+で保存
+
